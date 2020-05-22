@@ -1,6 +1,6 @@
-=== WooCommerce PayFast Gateway ===
+=== WooCommerce Qpay Gateway ===
 
-A payment gateway for PayFast. A PayFast merchant account, merchant key and merchant ID are required for this gateway to function.
+A payment gateway for Qpay. A Qpay merchant account, merchant key and merchant ID are required for this gateway to function.
 
 == Important Note ==
 
