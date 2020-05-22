@@ -3,9 +3,9 @@
  * Plugin Name: WooCommerce Qpay Gateway
  * Plugin URI: https://qpayi.com/products/qpay-payment-gateway/
  * Description: Receive payments using the Qatar Qpay payments provider.
- * Author: QPAY Ecommerce
- * Author URI: https://qpayi.com/
- * Version: 1.2.7
+ * Author: Devomman
+ * Author URI: https://github.com/omman/
+ * Version: 1.2.9
  *
  * Copyright (c) 2015 WooThemes
  *
