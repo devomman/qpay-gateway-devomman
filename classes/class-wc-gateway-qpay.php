@@ -1,6 +1,6 @@
 <?php
 /**
- * Qpay Payment Gateway
+ * Qpay Payment Gateway by Devomman
  *
  * Provides a Qpay Payment Gateway.
  *
@@ -36,7 +36,7 @@
  */
 class WC_Gateway_Qpay extends WC_Payment_Gateway {
 
-	public $version = '1.2.7';
+	public $version = '1.2.9';
 
 	public function __construct() {
         global $woocommerce;
