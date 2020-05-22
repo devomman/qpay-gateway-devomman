@@ -1,4 +1,7 @@
-*** PayFast Changelog ***
+*** Qpay Changelog ***
+
+2020.05.22 - version 1.2.9
+ * Fix - Logo, Ajax Loader, WPML Support, Billing First and Last Name, Fix Domain AR.
 
 2015.04.20 - version 1.2.7
  * Fix - Corrects the plugin textdomain.
@@ -8,11 +11,11 @@
  * WC 2.1 Compatibility
 
 2013.09.06 - version 1.2.5
- * Update PayFast Logo
+ * Update Qpay Logo
 
 2013.08.29 - version 1.2.4
  * Sequential Order Numbers support
- * Better WooCommerce version tracking for PayFast
+ * Better WooCommerce version tracking for Qpay
 
 2013.06.26 - version 1.2.3
  * Track WooCommerce version
