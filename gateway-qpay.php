@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: WooCommerce Qpay Gateway
+ * Plugin Name: Qpay Gateway by Devomman
  * Plugin URI: https://qpayi.com/products/qpay-payment-gateway/
  * Description: Receive payments using the Qatar Qpay payments provider.
  * Author: Devomman
@@ -25,19 +25,7 @@
 
 if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
 
-/**
- * Required functions
- */
- //  Disable Update By Omman Start
-// if ( ! function_exists( 'woothemes_queue_update' ) )
-// 	require_once( 'woo-includes/woo-functions.php' );
 
-/**
- * Plugin updates
- */
-
-// woothemes_queue_update( plugin_basename( __FILE__ ), '557bf07293ad916f20c207c6c9cd15ff', '18596' );
- //  Disable Update By Omman End
 load_plugin_textdomain( 'woocommerce-gateway-qpay', false, trailingslashit( dirname( plugin_basename( __FILE__ ) ) ) );
 
 add_action( 'plugins_loaded', 'woocommerce_qpay_init', 0 );
